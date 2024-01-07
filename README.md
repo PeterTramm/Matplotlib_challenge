@@ -41,7 +41,7 @@ and also provide a top-level summary of the study results.
 
 Peter Tram  - peter.tram@hotmail.com
 
-Project Link: [https://github.com/PeterTramm/pandas-challenge](https://github.com/PeterTramm/pandas-challenge)
+Project Link: [https://github.com/PeterTramm/Matplotlib_challenge](https://github.com/PeterTramm/Matplotlib_challenge)
 
 
 
